@@ -1,6 +1,6 @@
 @WebAPIAdvertisingPlatform_HostAddress = http://localhost:5143
 
-GET {{WebAPIAdvertisingPlatform_HostAddress}}/api/AdvertisingPlatform
+GET {{WebAPIAdvertisingPlatform_HostAddress}}/api
 Accept: application/json
 
 ###
